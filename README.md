@@ -112,9 +112,9 @@ Seeds e reprodutibilidade:
 - train_test_split: `random_state=42`
 - Modelos: quando aplicável, `random_state=42`
 
-================================================================================
+
 CONCLUSÃO ESTRATÉGICA - PREVISÃO DE CHURN TELECOM X
-================================================================================
+--------------------------------------------------
 
 🏆 COMPARAÇÃO E SELEÇÃO DO MELHOR MODELO
 --------------------------------------------------
